@@ -2,4 +2,4 @@
 
 Sistema básico para rolagem de dados para estudo.
 
-Nível de dificuldade de programar e entender básico .
+Para fazer concatenação de string com resultado de números aleatórios e a seleção de arquivos com base no resultado adquirido.
